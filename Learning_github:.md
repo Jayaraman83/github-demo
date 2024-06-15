@@ -29,3 +29,14 @@ jayaramanb@jayaramans-air git-demo % git config --global --list
 user.name=Jay Bala
 user.email=jayaraman83@gmail.com
 jayaramanb@jayaramans-air git-demo % 
+
+
+Now finally to commit the files into Local Repository:
+cmd: git commit -m "First Commit"
+
+So Step 1: To Move the changed file to Staging area : Command is : git add <filename>
+   Step 2: To commit the changed files from Staging to the Local Repository: git commit -m "Comments"
+
+If you have changed multiple files and move all of them to gether:
+1. To Move them to stage: commit add *
+2. To Move stage to Local Repo: commit -m "Comments"
