@@ -38,5 +38,5 @@ So Step 1: To Move the changed file to Staging area : Command is : git add <file
    Step 2: To commit the changed files from Staging to the Local Repository: git commit -m "Comments"
 
 If you have changed multiple files and move all of them to gether:
-1. To Move them to stage: commit add *
-2. To Move stage to Local Repo: commit -m "Comments"
+1. To Move them to stage: git add *
+2. To Move stage to Local Repo: git commit -m "Comments"
